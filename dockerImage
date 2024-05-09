@@ -1,1 +1,1 @@
-https://hub.docker.com/repository/docker/ferreiraelias/fullcycle/general
+docker push ferreiraelias/fullcycle:tagname
