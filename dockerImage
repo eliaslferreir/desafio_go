@@ -1,1 +1,1 @@
-docker push ferreiraelias/fullcycle:tagname
+docker push ferreiraelias/fullcycle:latest
